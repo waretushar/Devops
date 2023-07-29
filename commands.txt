@@ -5,4 +5,5 @@ git add
 git rm --cached
 git log
 git restore
-
+git --oneline
+git --pretty
