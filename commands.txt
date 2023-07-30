@@ -7,3 +7,4 @@ git log
 git restore
 git --oneline
 git --pretty
+Thanks
