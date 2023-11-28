@@ -7,3 +7,5 @@ git log
 git log --oneline
 git log --oneline --pretty
 git rm
+git clone
+git remote -v
