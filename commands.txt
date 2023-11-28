@@ -9,3 +9,4 @@ git log --oneline --pretty
 git rm
 git clone
 git remote -v
+git pull origin main
